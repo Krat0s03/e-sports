@@ -8,8 +8,8 @@
   height: 40vh;
   background-image: url("./img/mobile-app.jpg");
   background-size: cover;
-  padding-top: 10vh;
-  padding-left: 10vh;
+  padding-top: 5em;
+  padding-left: 3em;
   border-radius: .35rem;
 }
 
